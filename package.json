@@ -25,5 +25,6 @@
     "styletron-client": "^3.0.4",
     "styletron-server": "^3.0.4",
     "styletron-utils": "^3.0.4"
-  }
+  },
+  "devDependencies": {}
 }
