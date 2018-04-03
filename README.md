@@ -143,6 +143,6 @@ const Test = styled('span', props => ({
 
 <Test isActive={true}>Bonjour Monde</Test>
 // or addClass use as attibute
-<Test isActive={true} addClass={props.isActive? 'active' : null'}>Bonjour Monde</Test>
+<Test isActive={true} addClass={props.isActive? 'active' : null}>Bonjour Monde</Test>
 ```
 
