@@ -1,0 +1,29 @@
+{
+  "name": "inferno-styletron",
+  "version": "0.1.0",
+  "description": "Styled Components using Styletron bindings for Inferno 4 and up",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "./run/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurdin/inferno-styletron.git"
+  },
+  "keywords": [
+    "cssinjs",
+    "inferno"
+  ],
+  "author": "Sergey Kurdin <skurdin@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurdin/inferno-styletron/issues"
+  },
+  "homepage": "https://github.com/kurdin/inferno-styletron#readme",
+  "dependencies": {
+    "inferno-create-element": "^5.0.1",
+    "styletron-client": "^3.0.4",
+    "styletron-server": "^3.0.4",
+    "styletron-utils": "^3.0.4"
+  }
+}
