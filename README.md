@@ -126,6 +126,8 @@ class SomeComponent extends Component {
 }
 ```
 
+## addClass helper attribute 
+
 `addClass` helper can be used to add class if expression is true. `addClass` can be added to object style or to element attribute. 
 
 
