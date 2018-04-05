@@ -1,6 +1,6 @@
 import { Component } from 'inferno-component';
 import { createElement } from 'inferno-create-element';
-import { injectStylePrefixed } from '../styletron-utils';
+import { injectStylePrefixed } from './styletron-utils';
 
 /**
  * @class Provider
